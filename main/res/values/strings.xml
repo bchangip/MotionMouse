@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TalkBack</string>
+    <string name="action_settings">Settings</string>
+
+
+    <!-- Texts -->
+    <string name="speechbtn_default">Press to speak</string>
+    <string name="speechbtn_listening">Listening...</string>
+    <string name="initial_prompt">Go</string>
+
+    <!-- Colors -->
+    <color name="speechbtn_default">#EEEEEE</color>
+    <color name="speechbtn_listening">#99FFBB</color>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
